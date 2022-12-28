@@ -1,4 +1,4 @@
-<h1> Hello! 😁 I'm Demetrius, an <a href="https://www.linkedin.com/in/demetriustibbs/">IT Professional.</a></h1>
+<h1> 👋🏾 Hello! I'm Demetrius, an <a href="https://www.linkedin.com/in/demetriustibbs/">IT Professional </a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
 

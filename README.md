@@ -8,7 +8,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/MurkerX89/osTicketinstall-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/MurkerX89/osTicketpostinstall)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MurkerX89/osTicketLifecycle)
 
 <h2>🤳Connect with me:</h2>
 

@@ -3,12 +3,12 @@
 <h2>💻  Information Technology Projects ⚡️</h2>
 
 - <b>Microsoft Azure ⛅️ (Cloud)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MurkerX89/mcrsftadconf))
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MurkerX89/NSG-NetTraffic)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tibbs-demetrius/mcrsftadconf))
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tibbs-demetrius/NSG-NetTraffic)
 - <b>osTicket 🦘 (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MurkerX89/osTicketinstall-prereq)
-  - [osTicket: Post-Installation Configuration](https://github.com/MurkerX89/osTicketpostinstall)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MurkerX89/osTicketLifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/tibbs-demetrius/osTicketinstall-prereq)
+  - [osTicket: Post-Installation Configuration](https://github.com/tibbs-demetrius/osTicketpostinstall)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/tibbs-demetrius/osTicketLifecycle)
 
 <h2>🤳🏽Connect with me:</h2>
 
